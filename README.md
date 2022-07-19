@@ -18,7 +18,14 @@ I'm participating to the RootMe challenges: https://www.root-me.org/?page=plan&l
 ### Category: Network
 Networks challenges where you have to deal with captured traffic, network services, packet analysis, etc The following set of problems deal with network traffic including different protocols. You need to analyse the packet captures to solve these challenges.
 
-[x] FTP - authentication
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="Prerequisites:
+- Knowledge of a network capture analyzing tool. 
+- Knowlege of the most common network protocols."><pre class="notranslate"><code>Prerequisites: 
+- Knowledge of a network capture analyzing tool. 
+- Knowlege of the most common network protocols.
+</code></pre></div>
+
+- [x] FTP - authentication
 - [x] TELNET - authentication
 - [x] ETHERNET - frame
 - [x] Twitter authentication
