@@ -4,8 +4,8 @@ I'm participating to the RootMe challenges: https://www.root-me.org/?page=plan&l
 
 
 ### Category: Web - Client
-- [ ] Mercury
-- [x] Venus
+- [ ] 
+- [x] 
 
 ### Category: Web - Server
 
@@ -41,3 +41,6 @@ Prerequisites:
 - [ ] RF - Key Fixed Code
 - [x] SSL - HTTP exchange
 - [ ] Netfilter - common mistakes
+
+
+In progress: 
