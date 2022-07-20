@@ -222,6 +222,39 @@ These tests will allow you to hone your cryptography skills. You will be faced w
 - [ ] ECDSA - Implementation error
 
 ### Category: Steganography
+The art of hiding information in a document. 
+<div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="Prerequisites:
+- Know the data representation formats.
+- Master a scripting language.
+- Have imagination."><pre class="notranslate"><code>Prerequisites: 
+- Know the data representation formats.
+- Master a scripting language.
+- Have imagination.
+</code></pre></div>
+
+- [ ] EXIF - Metadata
+- [x] Dot and next line
+- [x] Steganomobile
+- [x] Twitter Secret Messages
+- [ ] Poem from Space
+- [ ] Yellow dots
+- [x] TXT - George and Alfred
+- [x] WAV - Noise analysis
+- [ ] EXIF - Thumbnail
+- [ ] Mimic - Dummy sight
+- [x] WAV - Spectral analysis
+- [ ] APNG - Just A PNG
+- [ ] Base Jumper
+- [ ] ELF x64 - Duality
+- [ ] Hide and seek
+- [ ] PDF - Embedded
+- [ ] Angecryption
+- [ ] Kitty spy
+- [ ] PNG - Least Significant Bit
+- [ ] PNG - Pixel Indicator Technique
+- [ ] PNG - Pixel Value Differencing
+- [ ] Crypt-art
+
 
 ### Category: Realist
 You will end up in environments full of diverse and varied themes. These challenges will help you understand the operation, including authentication methods, and target vulnerabilities to exploit target in realistic scenarios.
