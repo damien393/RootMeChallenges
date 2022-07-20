@@ -6,17 +6,17 @@ In progress:
   - Web - Client: 27%
   - Web - Server: 22% 
   - Cryptanalysis: 15%
-  - 
-  - App - Script
-  - Forensic
+  - Steganography: 27%
+  - Realist: 2%
+  - Network: 50%
+  - App - Script:
+  - Forensic:
 
 
 ### Category: Web - Client
-
 At first you will be faced with problems that will require little to no knowledge of web scripting language. Pretty soon the plot thickens ...
 
 This series of events confronts you with the use of scripting language / client side programming. They are mostly scripts to analyze and understand. This will allow you to learn this language which is in widespread use on the internet.
-
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="Prerequisites:
 - Understanding a scripting language such javascript/vbscript.
 - Understanding the operation of a debugger such firebug/javascript console."><pre class="notranslate"><code>Prerequisites: 
@@ -59,11 +59,9 @@ This series of events confronts you with the use of scripting language / client 
 - [ ] XSS - DOM Based
 
 ### Category: Web - Server
-
 Discover the mechanisms, protocols and technologies used on the Internet and learn to abuse them!
 
 These challenges are designed to train users on HTML, HTTP and other server side mechanisms. The following series of challenges will cultivate a better understanding of techniques such as : Basic workings of multiple authentication mechanisms, handling form data, inner workings of web applications, etc. ...
-
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="Prerequisites:
 - Understand HTML. 
 - Understand the HTTP protocol.                                                                                                                         
@@ -152,9 +150,7 @@ These challenges are designed to train users on HTML, HTTP and other server side
 - [ ] SQL injection - Filter bypass
 
 ### Category: Cryptanalysis
-
 These tests will allow you to hone your cryptography skills. You will be faced with an encoded data. The challenge is to find the type of encoding or encryption and revert it back to find the solution.
-
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="Prerequisites:
 - Knowledge of most common encoding formats.
 - Knowledge of most common hash algorithms and ciphers.
@@ -228,10 +224,57 @@ These tests will allow you to hone your cryptography skills. You will be faced w
 ### Category: Steganography
 
 ### Category: Realist
+You will end up in environments full of diverse and varied themes. These challenges will help you understand the operation, including authentication methods, and target vulnerabilities to exploit target in realistic scenarios.
+
+The challenges are complete web sites with multiple security vulnerabilities, with a completely fictional content. You play the role of a hacker contacted by organizations or individuals in order to provide justice through a hack. Once received your goals, it’s up to you to browse the site by trying to discover and exploit vulnerabilities. This series of challenges can be directly applied to the real world.
+
+- [x]  	It happens, sometimes
+- [ ]  	P0wn3d
+- [ ]  	The h@ckers l4b
+- [ ]  	Neonazi inside
+- [ ]  	Well-known
+- [ ]  	Bash/Awk - netstat parsing
+- [ ]  	Breaking Root-Me like it’s 2020
+- [ ]  	PyRat Auction
+- [ ]  	Root them
+- [ ]  	IPBX - call me maybe
+- [ ]  	Marabout
+- [ ]  	Root-We
+- [ ]  	Starbug Bounty
+- [ ]  	Ultra Upload
+- [ ]  	A bittersweet shellfony
+- [ ]  	Bash - System Disaster
+- [ ]  	Imagick
+- [ ]  	MALab
+- [ ]  	Root Me, for real
+- [ ]  	SSHocker
+- [ ]  	Web TV
+- [ ]  	SamBox v2
+- [ ]  	SamCMS
+- [ ]  	BBQ Factory - First Flirt
+- [ ]  	Django unchained
+- [ ]  	Getting root Over it!
+- [ ]  	Texode
+- [ ]  	BBQ Factory - Back To The Grill
+- [ ]  	In Your Kubernetass
+- [ ]  	DjangocatZ
+- [ ]  	SamBox v1
+- [ ]  	SAP Pentest 007
+- [ ]  	Crypto Secure
+- [ ]  	Bozobe Hospital
+- [ ]  	Red Pills
+- [ ]  	SamBox v3
+- [ ]  	ARM FTP Box
+- [ ]  	SAP Pentest 000
+- [ ]  	Texode Back
+- [ ]  	Bluebox 2 - Pentest
+- [ ]  	Nodeful
+- [ ]  	Bluebox - Pentest
+- [ ]  	Highway to shell
+- [ ]  	SamBox v4
 
 ### Category: Network
 Networks challenges where you have to deal with captured traffic, network services, packet analysis, etc The following set of problems deal with network traffic including different protocols. You need to analyse the packet captures to solve these challenges.
-
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="Prerequisites:
 - Knowledge of a network capture analyzing tool. 
 - Knowlege of the most common network protocols."><pre class="notranslate"><code>Prerequisites: 
@@ -258,3 +301,10 @@ Networks challenges where you have to deal with captured traffic, network servic
 - [ ] RF - Key Fixed Code
 - [x] SSL - HTTP exchange
 - [ ] Netfilter - common mistakes
+- [ ] - [ ] SNMP - Authentification
+- [ ] Wired Equivalent Privacy
+- [ ] ICMP payload
+- [ ] RIPv1 - no authentication
+- [ ] XMPP - authentication
+- [ ] RF - Satellite transmission
+- [ ] RF - L Band
